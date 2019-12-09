@@ -8,3 +8,6 @@ React CSSTransition and TransitionGroup to create a Slide In-Out effect.
 2. Install React Transition Group
   
   - npm install react-transition-group --save
+
+
+DEMO: https://jogavidia.github.io/react-csstransition-slide-in-out/
