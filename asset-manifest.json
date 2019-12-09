@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-csstransition-slide-in-out/static/css/main.0c351068.chunk.css",
+    "main.js": "/react-csstransition-slide-in-out/static/js/main.6673bb6d.chunk.js",
+    "main.js.map": "/react-csstransition-slide-in-out/static/js/main.6673bb6d.chunk.js.map",
+    "runtime-main.js": "/react-csstransition-slide-in-out/static/js/runtime-main.164cb48b.js",
+    "runtime-main.js.map": "/react-csstransition-slide-in-out/static/js/runtime-main.164cb48b.js.map",
+    "static/js/2.8c6d135d.chunk.js": "/react-csstransition-slide-in-out/static/js/2.8c6d135d.chunk.js",
+    "static/js/2.8c6d135d.chunk.js.map": "/react-csstransition-slide-in-out/static/js/2.8c6d135d.chunk.js.map",
+    "index.html": "/react-csstransition-slide-in-out/index.html",
+    "precache-manifest.067072e2e2321a7d6b8001b67e68ce68.js": "/react-csstransition-slide-in-out/precache-manifest.067072e2e2321a7d6b8001b67e68ce68.js",
+    "service-worker.js": "/react-csstransition-slide-in-out/service-worker.js",
+    "static/css/main.0c351068.chunk.css.map": "/react-csstransition-slide-in-out/static/css/main.0c351068.chunk.css.map",
+    "static/js/2.8c6d135d.chunk.js.LICENSE": "/react-csstransition-slide-in-out/static/js/2.8c6d135d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.164cb48b.js",
+    "static/js/2.8c6d135d.chunk.js",
+    "static/css/main.0c351068.chunk.css",
+    "static/js/main.6673bb6d.chunk.js"
+  ]
+}
